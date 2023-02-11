@@ -4,11 +4,9 @@ title: La Escuelita
 ---
 
 
-<figure>
-  <img alt="La escuelita" src=/assets/images/PROYECTO.jpeg>
-  <figcaption> El proyecto
-  </figcaption>
-</figure>
+
+<img alt="La escuelita" src=/assets/images/PROYECTO.jpeg>
+
 
 
 La ESCUELITA HOLÍSTICA DE VIDA SENCILLA es un sistema educativo integral que trata
