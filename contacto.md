@@ -2,7 +2,7 @@
 layout: post
 title: Contacto
 ---
-
+<p>
 C/ Egiarte 16
 <p>
 31292 Lakar
