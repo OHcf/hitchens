@@ -42,11 +42,9 @@ necesidades de las personas participantes, siendo esto un punto al que daremos i
 que parte de nuestra filosofía es la inclusión y la participación de todos los miembros de la
 sociedad local.
 
-<figure>
-  <img alt="La escuelita" src=/assets/images/PROYECTO_2.jpeg>
-  <figcaption> El proyecto
-  </figcaption>
-</figure>
+
+  <img alt="La escuelita" src=/assets/images/PROYECTO_2.jpeg/>
+
 
 OBJETIVOS GENERALES
 1. Frenar la despoblación del entorno rural y que este sea un lugar amable para nacer,
