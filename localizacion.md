@@ -3,7 +3,6 @@ layout: post
 title: Dónde estamos
 ---
 
-DONDE ESTAMOS
 Lo que nosotras teníamos disponible era un huerto comunal en un pequeño pueblo de
 Navarra, nuestra casa y un jardín-terraza con algunos árboles frutales y plantas
 medicinales y un terreno de 1800 metros con algunas viejas parras, algún olivo y

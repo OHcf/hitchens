@@ -3,7 +3,6 @@ layout: post
 title: Formación
 ---
 
-FORMACIÓN
 Febrero 2023 – marzo 2023:
 - Curso de bioconstrucción: Curso teórico-práctico en cuatro fases para crear una estructura de
 24 m 2 destinada a gallinero y a centro de reuniones. (Imparte: Agotzenea). Lugar: Unidad

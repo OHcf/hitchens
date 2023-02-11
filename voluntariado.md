@@ -3,7 +3,6 @@ layout: post
 title: Voluntariado
 ---
 
-VOLUNTARIADO
 Durante algunos meses del año tienes la posibilidad de participar en
 el proyecto del Proyecto de Permacultura Lorka como voluntario/a.
 Colaboramos con la organización internacional WWOOF (World
