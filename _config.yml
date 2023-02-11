@@ -21,12 +21,6 @@ baseurl: "/hitchens" #  the subpath of your site, e.g. /blog
 url: "https://ohcf.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/logoescuelita.jpg
 
-#<figure>
-# <img alt="Actividades" src=/assets/images/BIOERAIKUNTZA.pdf>
-#  <figcaption> Ikastaroa
-#  </figcaption>
-#</figure>
-
 
 #twitter_username: patdryburgh
 #github_username:  patdryburgh
