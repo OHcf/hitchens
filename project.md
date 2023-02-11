@@ -5,7 +5,7 @@ title: La Escuelita
 
 
 
-<img alt="La escuelita" src=/assets/images/PROYECTO.jpeg>
+<img alt="La escuelita" src=/assets/images/PROYECTO.jpeg />
 
 
 
