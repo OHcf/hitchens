@@ -1,8 +1,8 @@
 ---
-layout: post
-title: "Introduccion"
-author: "Permacultura Lorca"
+title: Introduccion
+author: Permacultura Lorca
 categories: literature
+layout: post
 ---
 
 
