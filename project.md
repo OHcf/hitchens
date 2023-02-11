@@ -3,6 +3,14 @@ layout: post
 title: La Escuelita
 ---
 
+
+<figure>
+  <img alt="La escuelita" src=/assets/images/PROYECTO.jpeg>
+  <figcaption> El proyecto
+  </figcaption>
+</figure>
+
+
 La ESCUELITA HOLÍSTICA DE VIDA SENCILLA es un sistema educativo integral que trata
 de dar respuesta a los desafíos a los que nos enfrentamos como sociedad actualmente (crisis
 climática y alimentaria, agotamiento de los recursos naturales, aumento de las desigualdades...)
@@ -35,6 +43,12 @@ diversidades y las capacidades de cada individuo, pudiendo adaptarse cada uno de
 necesidades de las personas participantes, siendo esto un punto al que daremos importancia, ya
 que parte de nuestra filosofía es la inclusión y la participación de todos los miembros de la
 sociedad local.
+
+<figure>
+  <img alt="La escuelita" src=/assets/images/PROYECTO_2.jpeg>
+  <figcaption> El proyecto
+  </figcaption>
+</figure>
 
 OBJETIVOS GENERALES
 1. Frenar la despoblación del entorno rural y que este sea un lugar amable para nacer,
@@ -70,9 +84,4 @@ conocimiento es el camino hacia un futuro más alegre y sano para todas nosotras
 Enriqueciendo nuestras vidas y ofreciéndonos soluciones en estos tiempos
 complejos.”
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+
