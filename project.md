@@ -10,6 +10,8 @@ title: La Escuelita
 </figure>
 <p>
 
+!["la escuelita"](/assets/images/logoescuelita.jpeg /)
+
 
 La ESCUELITA HOLÍSTICA DE VIDA SENCILLA es un sistema educativo integral que trata
 de dar respuesta a los desafíos a los que nos enfrentamos como sociedad actualmente (crisis
