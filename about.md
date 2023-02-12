@@ -5,6 +5,13 @@ title: Quienes Somos
 
 ASOCIACIÓN DE PERMACULTURA LORKA
 
+
+<p>
+<figure>
+    <img alt="La escuelita 2" src="/assets/images/QUIENESSOMOS.JPEG">
+</figure>
+<p>
+
 La Asociación de Permacultura Lorka surge con la idea de crear una unidad de experimentación
 y educación a escala local que muestre que la permacultura es accesible para todos/as. Es
 también una organización paraguas bajo la cual tienen cabida otras muchas iniciativas, tales

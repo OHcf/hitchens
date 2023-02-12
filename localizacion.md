@@ -3,6 +3,12 @@ layout: post
 title: Dónde estamos
 ---
 
+
+<p>
+<figure>
+    <img alt="La escuelita 2" src="/assets/images/DONDEESTAMOS.JPG">
+</figure>
+<p>
 Lo que nosotras teníamos disponible era un huerto comunal en un pequeño pueblo de
 Navarra, nuestra casa y un jardín-terraza con algunos árboles frutales y plantas
 medicinales y un terreno de 1800 metros con algunas viejas parras, algún olivo y
