@@ -1,5 +1,5 @@
 ---
-title: Introduccion
+title: Introducción
 layout: post
 author: Permacultura Lorca
 categories: opinion
