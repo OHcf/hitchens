@@ -6,7 +6,7 @@ title: La Escuelita
 
 <p>
 <figure>
-    <img alt="La escuelita 2" src="/assets/images/logoescuelita.jpg">
+    <img alt="La escuelita 2" src="/assets/images/PROYECTO.jpg">
 </figure>
 <p>
 
@@ -45,7 +45,11 @@ que parte de nuestra filosofía es la inclusión y la participación de todos lo
 sociedad local.
 
 
-  <img alt="La escuelita" src="/assets/images/PROYECTO_2.jpg/">
+<p>
+<figure>
+    <img alt="La escuelita 2" src="/assets/images/PROYECTO_2.jpeg">
+</figure>
+<p>
 
 
 OBJETIVOS GENERALES
