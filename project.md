@@ -45,7 +45,7 @@ que parte de nuestra filosofía es la inclusión y la participación de todos lo
 sociedad local.
 
 
-  <img alt="La escuelita" src=/assets/images/PROYECTO_2.jpeg/>
+  <img alt="La escuelita" src="/assets/images/PROYECTO_2.jpg/">
 
 
 OBJETIVOS GENERALES
