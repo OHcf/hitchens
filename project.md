@@ -6,7 +6,7 @@ title: La Escuelita
 
 <p>
 <figure>
-    <img alt="La escuelita test 2" src="/assets/images/logoEscuelita.png/">
+    <img alt="La escuelita test 2" src="./assets/images/logoEscuelita.png/">
 </figure>
 <p>
 
