@@ -150,5 +150,11 @@ title: Galeria
 <p>
 
 
+<p>
+<figure>
+    <img alt="La escuelita 2" src="/assets/images/g25.png">
+</figure>
+<p>
+
 
 
