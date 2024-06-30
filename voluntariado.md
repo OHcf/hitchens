@@ -5,10 +5,7 @@ title: Voluntariado
 
 Durante algunos meses del año tienes la posibilidad de participar en
 el proyecto del Proyecto de Permacultura Lorka como voluntario/a.
-Colaboramos con la organización internacional WWOOF (World
-Wide Opportunities on Organic Farms. Oportunidades de
-Voluntariado Internacional en Granjas Orgánicas) en el programa
-de WWOOF-España.
+
 Ofrecemos 1-2 plazas de alojamiento y manutención en nuestra
 casa a cambio de unas horas de trabajo. 
 Durante tu estancia con nosotras nos ayudarás en el manejo de las

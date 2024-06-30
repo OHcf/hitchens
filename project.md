@@ -6,12 +6,12 @@ title: La Escuelita
 
 <p>
 <figure>
-    <img alt="La escuelita 2" src="/assets/images/PROYECTO.JPG">
+    <img alt="La escuelita 2" src="/assets/images/Foto2.png">
 </figure>
 <p>
 
 
-La ESCUELITA HOLÍSTICA DE VIDA SENCILLA - Test test-  es un sistema educativo integral que trata
+La ESCUELITA HOLÍSTICA DE VIDA SENCILLA es un sistema educativo integral que trata
 de dar respuesta a los desafíos a los que nos enfrentamos como sociedad actualmente (crisis
 climática y alimentaria, agotamiento de los recursos naturales, aumento de las desigualdades...)
 y está enfocado en cuatro líneas principales:
@@ -31,9 +31,7 @@ solución, no parte del problema. Creemos que los problemas globales solo pueden
 actuando desde lo local, y siendo conscientes de que este modelo podría reproducirse en muchos
 otros territorios, adaptándolo a cada espacio.
 
-La iniciativa de InnovaLocal resulta ideal, ya que trabaja desde el entorno local e inmediato,
-pero con la idea de crear una red que permita la unión de los proyectos locales creando un
-trabajo a nivel global.
+En el año 2023, fuimos beneficiarios de InnovaLocal, dándonos un impulso imprescindible a la hora de poner en marcha la Escuelita, trabajando desde el entorno local e inmediato, pero con la idea de crear una red que permita la unión de los proyectos locales creando un trabajo a nivel global.
 
 Nuestro proyecto está pensado para que puedan participar en él personas de cualquier edad y
 género. Resulta además empoderador, ya que ofrece herramientas que permiten el desarrollo de
@@ -47,7 +45,7 @@ sociedad local.
 
 <p>
 <figure>
-    <img alt="La escuelita 2" src="/assets/images/PROYECTO_2.jpeg">
+    <img alt="La escuelita 2" src="/assets/images/Foto3.png">
 </figure>
 <p>
 

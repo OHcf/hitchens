@@ -26,7 +26,7 @@ puesto en marcha diferentes proyectos de conservación del territorio y de educa
 ambiental, tales como: participación en la red de semillas y preservación y reproducción de
 semillas autóctonas, creación de un bosque comestible, trabajo hortícola, bioconstrucción de
 un horno y un invernadero con materiales reciclados y naturales, creación de un teatro para
-acercar la permacultura y la educación ambiental a niños y niñas. Todo ello nos ha permitido
+acercar la permacultura y la educación ambiental a niños y niñas, un aula de educación, construida con técnicas de bioconstruccion y materiales como, paja ,madera, tierra. Todo ello nos ha permitido
 obtener un conocimiento profundo de las necesidades y carencias del entorno y es por ello
 que hemos decidido poner en práctica este proyecto.
 
