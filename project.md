@@ -11,7 +11,7 @@ title: La Escuelita
 <p>
 
 
-La ESCUELITA HOLÍSTICA DE VIDA SENCILLA es un sistema educativo integral que trata
+La ESCUELITA HOLÍSTICA DE VIDA SENCILLA - Test test-  es un sistema educativo integral que trata
 de dar respuesta a los desafíos a los que nos enfrentamos como sociedad actualmente (crisis
 climática y alimentaria, agotamiento de los recursos naturales, aumento de las desigualdades...)
 y está enfocado en cuatro líneas principales:
