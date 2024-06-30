@@ -14,12 +14,12 @@ title: La Escuelita
 La ESCUELITA HOLÍSTICA DE VIDA SENCILLA es un sistema educativo integral que trata
 de dar respuesta a los desafíos a los que nos enfrentamos como sociedad actualmente (crisis
 climática y alimentaria, agotamiento de los recursos naturales, aumento de las desigualdades...)
-y está enfocado en cuatro líneas principales:  <br>
+y está enfocado en cuatro líneas principales:  <br> <br>
 
 1) AUTOSUFICIENCIA (independencia/ interdependencia)  <br>
 2) SOSTENIBILIDAD ECOLÓGICA    <br>
 3) SALUD HOLÍSTICA Y BIENESTAR    <br>
-4) COMUNIDAD Y RED  <br>
+4) COMUNIDAD Y RED  <br> <br>
 
 Estas categorías que a su vez se componen de subapartados más específicos están pensadas para
 tratar de educar y empoderar a los y las estudiantes y para darles las herramientas y los recursos
@@ -29,9 +29,9 @@ para ello contamos con un equipo docente formado por profesionales locales que b
 enseñanzas en las experiencias que tienen sobre el territorio. Nuestro objetivo es ser parte de la
 solución, no parte del problema. Creemos que los problemas globales solo pueden resolverse
 actuando desde lo local, y siendo conscientes de que este modelo podría reproducirse en muchos
-otros territorios, adaptándolo a cada espacio.  
+otros territorios, adaptándolo a cada espacio.  <br>
 
-En el año 2023, fuimos beneficiarios de InnovaLocal, dándonos un impulso imprescindible a la hora de poner en marcha la Escuelita, trabajando desde el entorno local e inmediato, pero con la idea de crear una red que permita la unión de los proyectos locales creando un trabajo a nivel global.  
+En el año 2023, fuimos beneficiarios de InnovaLocal, dándonos un impulso imprescindible a la hora de poner en marcha la Escuelita, trabajando desde el entorno local e inmediato, pero con la idea de crear una red que permita la unión de los proyectos locales creando un trabajo a nivel global.  <br>
 
 Nuestro proyecto está pensado para que puedan participar en él personas de cualquier edad y
 género. Resulta además empoderador, ya que ofrece herramientas que permiten el desarrollo de
@@ -49,33 +49,33 @@ sociedad local.
 </figure>
 <p>
 
-
-OBJETIVOS GENERALES  
+<br>
+OBJETIVOS GENERALES  <br>
 1. Frenar la despoblación del entorno rural y que este sea un lugar amable para nacer,
-crecer, vivir y trabajar  
-2. Promover un futuro sostenible en Navarra  
+crecer, vivir y trabajar  <br>
+2. Promover un futuro sostenible en Navarra  <br>
 3. Que la mayor parte de la sociedad sea consciente de la crisis climática y tenga los
 recursos y la educación ambiental para poder crear alternativas a través de la
-agroecología, permacultura, las redes comunitarias, la bioconstrucción  
+agroecología, permacultura, las redes comunitarias, la bioconstrucción  <br>
 
-OBJETIVOS ESPECÍFICOS  
-1. Crear red  
-2. Charlas, talleres, coloquios, cursos de educación ambiental teóricos y prácticos   
+OBJETIVOS ESPECÍFICOS  <br>
+1. Crear red  <br>
+2. Charlas, talleres, coloquios, cursos de educación ambiental teóricos y prácticos   <br>
 3. Alentar y dar herramientas a los y las estudiantes para tomar decisiones de vida
 sostenibles que beneficien a la comunidad local, a ellos y ellas mismos y al mundo en
-general.  
+general.  <br>
 4. Trabajar en colaboración con artesanos/as locales, lideres comunitarios y
-manufactureros/as en sus áreas de especialidad.  
+manufactureros/as en sus áreas de especialidad.  <br>
 5. Crear un modelo educativo que pueda ser transferible a otros lugares, fomentando la
 interdependencia y la independencia en la comunidad local, la sostenibilidad, la salud
-ambiental y personal.  
+ambiental y personal.  <br>
 6. Ayudar a entender y a aprovechar la mayoría de los recursos locales disponibles sin
-explotación.  
+explotación.  <br>
 7. Poner en práctica y mostrar un modelo simple de trabajo sostenible, asegurando la
-salud y la felicidad tanto de las partes como del conjunto.  
+salud y la felicidad tanto de las partes como del conjunto.  <br>
 8. Que todos los cursos ofrecidos sean accesibles (en todos los aspectos: economía,
-visibilidad, capacidades...) para todas las personas.  
-
+visibilidad, capacidades...) para todas las personas.  <br>
+<br>
 “La Escuelita busca ofrecer soluciones prácticas a nivel individual a algunos de los
 problemas del mundo. Creemos que los problemas macrocósmicos solo se pueden
 resolver mediante soluciones microcósmicas locales.
