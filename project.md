@@ -14,12 +14,12 @@ title: La Escuelita
 La ESCUELITA HOLÍSTICA DE VIDA SENCILLA es un sistema educativo integral que trata
 de dar respuesta a los desafíos a los que nos enfrentamos como sociedad actualmente (crisis
 climática y alimentaria, agotamiento de los recursos naturales, aumento de las desigualdades...)
-y está enfocado en cuatro líneas principales:  
+y está enfocado en cuatro líneas principales:  <br>
 
-1) AUTOSUFICIENCIA (independencia/ interdependencia)  
-2) SOSTENIBILIDAD ECOLÓGICA    
-3) SALUD HOLÍSTICA Y BIENESTAR    
-4) COMUNIDAD Y RED  
+1) AUTOSUFICIENCIA (independencia/ interdependencia)  <br>
+2) SOSTENIBILIDAD ECOLÓGICA    <br>
+3) SALUD HOLÍSTICA Y BIENESTAR    <br>
+4) COMUNIDAD Y RED  <br>
 
 Estas categorías que a su vez se componen de subapartados más específicos están pensadas para
 tratar de educar y empoderar a los y las estudiantes y para darles las herramientas y los recursos
@@ -76,7 +76,7 @@ salud y la felicidad tanto de las partes como del conjunto.
 8. Que todos los cursos ofrecidos sean accesibles (en todos los aspectos: economía,
 visibilidad, capacidades...) para todas las personas.  
 
->“La Escuelita busca ofrecer soluciones prácticas a nivel individual a algunos de los
+“La Escuelita busca ofrecer soluciones prácticas a nivel individual a algunos de los
 problemas del mundo. Creemos que los problemas macrocósmicos solo se pueden
 resolver mediante soluciones microcósmicas locales.
 El conocimiento nos puede hacer libres. Compartir, utilizar y mostrar ese
