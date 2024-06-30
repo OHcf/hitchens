@@ -4,7 +4,7 @@ title: Voluntariado
 ---
 
 Durante algunos meses del año tienes la posibilidad de participar en
-el proyecto del Proyecto de Permacultura Lorka como voluntario/a.
+el proyecto del Proyecto de Permacultura Lorka como voluntario/a.  
 
 Ofrecemos 1-2 plazas de alojamiento y manutención en nuestra
 casa a cambio de unas horas de trabajo. 
