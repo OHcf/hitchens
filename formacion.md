@@ -3,29 +3,31 @@ layout: post
 title: Formación
 ---
 
-TALLERES 2026
+**TALLERES 2026** <br>
 
-Re-imaginando el futuro 
+**Re-imaginando el futuro**
 Comenzamos este nuevo ciclo de talleres, "re-imaginando el futuro", que nos invita a detenernos y a mirar con atención la forma que habitamos el mundo. 
 Un espacio de reflexión y acción, desde el que os proponemos reencontrarnos con una manera de vivir más consciente, amable y profundamente conectada con la naturaleza.  
-A través de estos talleres, exploraremos el cuidado integral de las personas y del territorio; la nutrición  del cuerpo,  del espíritu. y nuestra salud y la de la tierra que nos sostiene. 
-
-Producción de comida
+A través de estos talleres, exploraremos el **cuidado integral** de las personas y del territorio; la nutrición  del cuerpo,  del espíritu. y nuestra **salud** y la de la tierra que nos sostiene. 
+<br>
+**Producción de comida**
 1. Técnicas de Permacultura
 2. Agricultura Sintrópica
 3. Taller de Keylines
-
-Salud y espiritualidad
+<br>
+**Salud y espiritualidad**
 4. Vivir en comunidad
 5. Gestión de conflictos en comunidades
-
-Espiritualidad y bienestar
+<br>
+**Espiritualidad y bienestar**
 6. Las 8 ramas del yoga
 7. Advaita Vedanta para principiantes
 8. Fermentos
 9. Jugando con la masa madre
+<br>
 
-Verano-Otoño 2024/ Primavera 2025
+
+**Verano-Otoño 2024/ Primavera 2025**
 
 - Taller de Chutney y tecnicas de fermentación 
 - Residencias para experimentar y aprender a vivir en permacultura 
