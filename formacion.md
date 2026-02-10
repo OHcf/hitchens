@@ -33,7 +33,7 @@ A través de estos talleres, exploraremos el <strong>cuidado integral</strong> d
 
 
 
-<h4>Talleres pasados: Verano-Otoño 2024/ Primavera 2025</h4>
+<p><h4>Talleres pasados: Verano-Otoño 2024/ Primavera 2025</h4>
 
 - Taller de Chutney y tecnicas de fermentación 
 - Residencias para experimentar y aprender a vivir en permacultura 
@@ -42,5 +42,5 @@ A través de estos talleres, exploraremos el <strong>cuidado integral</strong> d
 - Taller teórico-práctico para aprender a hacer un baño seco
 - Taller para la construcción de un horno de leña con barro
 - Taller de dinamización de aguas y acuaponia
-
-   Para más información detallada...@permalorka y difundiremos a través de washapp y carteles.
+</p>
+ <p>Para más información detallada...@permalorka y difundiremos a través de washapp y carteles.</p>
