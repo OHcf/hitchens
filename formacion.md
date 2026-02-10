@@ -7,33 +7,33 @@ title: Formación
 
 <p><h5>Re-imaginando el futuro</h5>
 </p>
-<p>Comenzamos este nuevo ciclo de talleres, "re-imaginando el futuro", que nos invita a detenernos y a mirar con atención la forma que habitamos el mundo. 
-Un espacio de reflexión y acción, desde el que os proponemos reencontrarnos con una manera de vivir más consciente, amable y profundamente conectada con la naturaleza.  
-A través de estos talleres, exploraremos el **cuidado integral** de las personas y del territorio; la nutrición  del cuerpo,  del espíritu. y nuestra **salud** y la de la tierra que nos sostiene. </p>
+<p>Comenzamos este nuevo ciclo de talleres, "re-imaginando el futuro", que nos invita a detenernos y a mirar con atención la forma que habitamos el mundo. <br>
+Un espacio de reflexión y acción, desde el que os proponemos reencontrarnos con una manera de vivir más consciente, amable y profundamente conectada con la naturaleza. <br> 
+A través de estos talleres, exploraremos el <strong>cuidado integral</strong> de las personas y del territorio; la nutrición  del cuerpo,  del espíritu. y nuestra <strong>salud</strong> y la de la tierra que nos sostiene. </p>
 
 <p><h5>Producción de comida</h5>
-1. Técnicas de Permacultura
-2. Agricultura Sintrópica
-3. Taller de Keylines
+	1. Técnicas de Permacultura<br>
+	2. Agricultura Sintrópica<br>
+	3. Taller de Keylines<br>
 </p>
 
 <p><h5>Salud y espiritualidad</h5>
 
-4. Vivir en comunidad
-5. Gestión de conflictos en comunidades
+	4. Vivir en comunidad<br>
+	5. Gestión de conflictos en comunidades<br>
 </p>
 
 <p><h5>Espiritualidad y bienestar</h5>
 
-6. Las 8 ramas del yoga
-7. Advaita Vedanta para principiantes
-8. Fermentos
-9. Jugando con la masa madre
+	6. Las 8 ramas del yoga<br>
+	7. Advaita Vedanta para principiantes<br>
+	8. Fermentos<br>
+	9. Jugando con la masa madre<br>
 </p>
 
 
 
-<h4>Verano-Otoño 2024/ Primavera 2025</h4>
+<h4>Talleres pasados: Verano-Otoño 2024/ Primavera 2025</h4>
 
 - Taller de Chutney y tecnicas de fermentación 
 - Residencias para experimentar y aprender a vivir en permacultura 
